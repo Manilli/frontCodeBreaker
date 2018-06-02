@@ -8,10 +8,20 @@
 }
 
 .App-header {
-  background-color: #222;
+  background-color: rgba(28, 50, 148, 0.4);
   height: 150px;
   padding: 20px;
   color: white;
+}
+
+.adivinar{
+  border-style: solid;
+  border-color: black;
+}
+
+.definir{
+  border-style: solid;
+  border-color: black;
 }
 
 .App-title {
